@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>查询.png</file>
+        <file>订票.png</file>
+        <file>退票.png</file>
+        <file>修改.png</file>
+        <file>text.txt</file>
+        <file>text2.txt</file>
+        <file>text3.txt</file>
+        <file>飞机.png</file>
+        <file>功能.png</file>
+        <file>票务系统.png</file>
+    </qresource>
+</RCC>
